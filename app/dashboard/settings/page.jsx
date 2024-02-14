@@ -7,6 +7,34 @@ export default function Page() {
     <>
       <Link href={"/dashboard"}>go to dashboard from settings page</Link>
       <div>dashboard settings page</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div id="bottom">bottom</div>
     </>
   );
 }
